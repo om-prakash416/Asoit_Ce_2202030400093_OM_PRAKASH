@@ -5,5 +5,5 @@ figma link: https://www.figma.com/file/6JU1K3hs97MvAwu1uYeZry/Local-Farmers-Mark
 
 <p align="center">
  
-  <img src="[https://github.com/om-prakash416/Asoit_Ce_2202030400093_OM_PRAKASH/edit/main/assignment_1/readme.md](https://github.com/om-prakash416/Asoit_Ce_2202030400093_OM_PRAKASH/blob/main/assignment_1/Screenshot%20(474).png)https://github.com/om-prakash416/Asoit_Ce_2202030400093_OM_PRAKASH/blob/main/assignment_1/Screenshot%20(474).png" width="350" alt="accessibility text">
+  <img src="https://github.com/om-prakash416/Asoit_Ce_2202030400093_OM_PRAKASH/blob/main/assignment_1/Screenshot%20(474).png" width="350" alt="accessibility text">
 </p>
